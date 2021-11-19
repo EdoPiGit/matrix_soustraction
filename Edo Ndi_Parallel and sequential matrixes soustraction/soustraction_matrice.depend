@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637181939 source:/home/yafmo/Bureau/produit_matrice/main.c
+	<stdio.h>
+	<stdlib.h>
+	<mpich/mpi.h>
+
